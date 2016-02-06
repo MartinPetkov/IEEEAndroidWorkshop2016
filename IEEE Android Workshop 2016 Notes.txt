@@ -1,0 +1,5 @@
+- the AndroidManifest.xml file defines permissions
+- the intent-filter for android.intent.action.MAIN allows the Main activity to be run
+- all components need to have unique IDs
+- Handlers run in a separate thread
+- Runnables are used with Handlers, they are functions that can be invoked
